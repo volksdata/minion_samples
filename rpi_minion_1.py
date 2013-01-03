@@ -6,6 +6,8 @@
 @date 2012-01-02
 @brief Sample script for interfacing Minion with Raspberry Pi using serial-over-usb
 
+@note A nice reference on connecting Arduinos to RPi:  http://raspberrypi.stackexchange.com/questions/1505/how-to-attach-an-arduino
+
 This script simply echoes all data received from a Minion to the console.
 """
 import sys
